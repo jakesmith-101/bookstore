@@ -1,2 +1,4 @@
-# bookstore
-An example of a website selling books online. In this case books on computer science topics.
+# One of my university assignments
+
+Uploaded all of it here.
+There are admin pages, only accessable through my database connection.
