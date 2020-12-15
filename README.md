@@ -4,7 +4,7 @@ Uploaded all of it here.<br />
 There are admin pages, only accessable through my database connection.<br />
 In "functions.php" there is the function "getConnetion()" this function connects to the database.<br />
 The details to connect to said database have been removed. (username and password)<br />
-There needs to be a "sessionData" folder with these pages as well.<br />
+There needs to be a "sessionData" folder with these files as well.<br />
 
 # "index.php"
 ![Image of "index.php"](https://github.com/ZiarayZ/images/blob/main/bookstore/index.PNG)
